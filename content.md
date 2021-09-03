@@ -6,7 +6,7 @@ iPadで開発をする（仮）
 
 ## 登壇者
 
-@tamacjp / パソコン交流会
+[@tamacjp](https://twitter.com/tamacjp) / パソコン交流会
 
 ## 概要
 
@@ -23,7 +23,7 @@ DaprのGo紹介
 
 ## 登壇者
 
-Ryuji Iwata (@qt_luigi)
+Ryuji Iwata ([@qt_luigi](https://twitter.com/qt_luigi))
 
 ## 概要
 
@@ -37,7 +37,7 @@ Ryuji Iwata (@qt_luigi)
 
 ## 登壇者
 
-たなはる（@tabasco_musume）
+たなはる（[@tabasco_musume](https://twitter.com/tabasco_musume)）
 
 ## 概要
 
@@ -69,7 +69,7 @@ ikegami
 
 ## 登壇者
 
-貞松 政史 (@sady_nitro)
+貞松 政史 ([@sady_nitro](https://twitter.com/sady_nitro))
 
 ## 概要
 
